@@ -1,2 +1,1 @@
-# Introduction to Software Convergence
-# web project, Environment Info Portal
+# Introduction to SwCon: web project, Environment Info Portal
